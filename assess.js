@@ -62,7 +62,7 @@ const answers = [
     '{username}は殺した',
     '{username}は悲しい',
     '{username}は楽しい',
-    '{username}は虚',
+    '{username}は無',
     '{username}は帰った',
     '{username}は刺された',
     '{username}は来た'
