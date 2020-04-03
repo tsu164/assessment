@@ -64,7 +64,7 @@ const answers = [
     '{username}は楽しい',
     '{username}は虚',
     '{username}は帰った',
-    '{username}は殺された',
+    '{username}は刺された',
     '{username}は来た'
 ];
 /**
