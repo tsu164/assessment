@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+    width: 500px;
+    margin-right:auto;
+}
+button {
+    padding: 5px 15px;
+    background-color: #c2f8fa;
+    border-style: none;
+}
+table, td {
+    border: solid 1px gray;
+    background-color: white;
+    color: darkblue
+}
+input {
+    height: 15px
+}
+th {
+    border: solid 1px black;
+    color: black
+}
+.face {
+    color:darkslateblue;
+}
+.back {
+    color: darkslateblue;
+    opacity:0.3;
+}
